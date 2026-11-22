@@ -1,0 +1,6 @@
+{
+  "name": "A Birthday Story",
+  "description": "A personalized interactive animated birthday film featuring progressive pencil sketching, a pastel 3D garden scene, scrapbook keepsake notes, an evening cake wish, and a continuous piano soundtrack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
